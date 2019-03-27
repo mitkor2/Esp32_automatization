@@ -1,0 +1,24 @@
+ULTIBOARD DRILL REPORT
+
+Design: PCB_Dimitar
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                    LAMINATION
+PCB_Dimitar - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.6000    PTH     60
+   2   0.9949    PTH      4
+   3   0.8890    PTH     10
+   4   1.1006    PTH     12
+   5   6.0000   NPTH      4
